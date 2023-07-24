@@ -6,9 +6,6 @@ import { Link } from 'react-router-dom';
 const College = ({ Cdata }) => {
     const { _id, college_image, college_name, admission_dates, event, sports, college_rating } = Cdata;
 
-    const handleCollegeInfo=item=>{
-        console.log(item);
-    }
     return (
         <div className="card card-side bg-base-100 shadow-2xl">
             <figure><img className='lg:w-[350px] lg:h-[350px] w-[300px] h-[350px]' src={college_image} alt="" /></figure>
@@ -25,7 +22,7 @@ const College = ({ Cdata }) => {
                     />
                 </p>
                 <div className="mt-20">
-                    <Link to={`/collegeDetails/${_id}`}><button onClick={()=>handleCollegeInfo(Cdata)} className="btn btn-outline">More Details</button></Link>
+                    <Link to={`/collegeDetails/${_id}`}><button className="btn btn-outline">More Details</button></Link>
                 </div>
             </div>
         </div>

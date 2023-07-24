@@ -26,7 +26,8 @@ import MyCollege from "../Pages/Dashboard/MyCollege/MyCollege";
         },
         {
           path:'collegeDetails/:id',
-          element: <PrivateRoute><CollegeDetails></CollegeDetails></PrivateRoute>
+          element: <PrivateRoute><CollegeDetails></CollegeDetails></PrivateRoute>,
+          loader: ({params})=> fetch(`http://localhost:3000/colleges/${params.id}`)
         },
         {
           path: 'login',
