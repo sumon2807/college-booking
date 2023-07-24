@@ -1,0 +1,117 @@
+[
+    {
+          "college_image": "https://i.ibb.co/3YzrM3K/college-02.jpg",
+          "college_name": "XYZ College",
+          "admission_dates": "2023-2024",
+          "college_rating": 4.0,
+          "event": "Virtual Information Session",
+          "event_details": "Attend our Virtual Information Session on September 5th, 2023, to get insights into our academic programs.",
+          "description": "XYZ College is renowned for its pioneering research in Sustainable Urban Planning and Neuroscience. The college presents a Virtual Information Session to provide prospective students with valuable insights into their diverse academic programs. With a college rating of 4.5, XYZ College offers a vibrant sports scene and nurtures student talent in sports like Basketball, Swimming, Tennis, and Cricket.",
+          "sports": "Basketball",
+          "review": "XYZ College offers a wide range of sports activities, and the coaches are dedicated to student development.",
+          "research_works": [
+            {
+              "title": "Sustainable Urban Planning",
+              "authors": ["Emma Brown", "Daniel Miller"],
+              "publication_date": "2022-07-20",
+              "summary": "Investigating sustainable urban planning practices to create environmentally friendly and livable cities."
+            },
+            {
+              "title": "Neuroscience and Cognitive Enhancement",
+              "authors": ["Oliver Wilson", "Sophie Turner"],
+              "publication-date": "2022-10-12",
+              "summary": "Analyzing the ethical implications of cognitive enhancement through neuroscience discoveries."
+            }
+          ],
+          "research_history": "XYZ College has a history of fostering cutting-edge research that addresses real-world challenges.",
+          "admission_process": [
+            {
+              "program": "Environmental Science",
+              "requirements": "Minimum GPA of 3.2 and a written statement expressing passion for environmental issues.",
+              "application_deadline": "2023-04-15"
+            },
+            {
+              "program": "Psychology",
+              "requirements": "Letter of recommendation and a statement of purpose detailing research interests.",
+              "application_deadline": "2023-05-01"
+            }
+          ]
+      },
+    {
+        "college_image": "https://i.ibb.co/4gnBgYD/college-04.jpg",
+        "college_name": "PQR Institute",
+        "admission_dates": "2023-2024",
+        "college_rating": 4.2,
+        "event": "Campus Tour and Orientation",
+        "event_details": "Experience our Campus Tour and Orientation Day on August 25th, 2023, to get acquainted with campus life.",
+          "description": "PQR Institute stands as a dedicated hub for research with a focus on Renewable Energy and the impact of Social Media on Mental Health. The institute offers programs in Sociology and Communications, nurturing a commitment to social issues and creative expression. With a college rating of 4.6, PQR Institute encourages a vibrant sports culture, offering diverse activities like Football, Athletics, Gymnastics, and Rugby.",
+          "sports": "Football & Rugby",
+          "review": "PQR Institute promotes a healthy and active lifestyle through its sports programs and facilities.",
+          "research_works": [
+            {
+              "title": "Renewable Energy for Rural Communities",
+              "authors": ["Robert Johnson", "Isabella White"],
+              "publication_date": "2022-08-25",
+              "summary": "Exploring the implementation of renewable energy solutions in rural communities for sustainable development."
+            },
+            {
+              "title": "Impact of Social Media on Mental Health",
+              "authors": ["Sophia Anderson", "Matthew Davis"],
+              "publication_date": "2023-01-18",
+              "summary": "Investigating the effects of social media use on mental health and proposing strategies for digital well-being."
+            }
+          ],
+          "research_history": "PQR Institute is committed to research that contributes to societal progress and addresses global challenges.",
+          "admission_process": [
+            {
+              "program": "Sociology",
+              "requirements": "Minimum GPA of 3.0 and a personal essay on social issues.",
+              "application_deadline": "2023-03-31"
+            },
+            {
+              "program": "Communications",
+              "requirements": "Portfolio showcasing creative works and a statement of purpose.",
+              "application_deadline": "2023-04-15"
+            }
+          ]
+      },
+      {
+          "college_image": "https://i.ibb.co/F6tQqb6/college-01.jpg",
+          "college_name": "ABC University",
+          "admission_dates": "2023-2024",
+          "college_rating": 4.8,
+          "event": "Open House",
+          "event_details": "Join us for an Open House event on August 20th, 2023 to explore our campus and learn about our programs.",
+          "description": "ABC University is a leading institution known for its cutting-edge research in fields like Artificial Intelligence, Robotics, and Cancer Immunotherapy. The university offers a diverse range of programs, including Engineering and Biology. With a college rating of 4.8, ABC University boasts excellent sports facilities and fosters a lively sports culture on campus.",
+          "sports": "Soccer",
+          "review": "The sports facilities at ABC University are excellent, and the campus has a vibrant sports community.",
+          "research_works": [
+            {
+              "title": "Artificial Intelligence and Robotics",
+              "authors": ["Jennifer Lee", "David Johnson"],
+              "publication_date": "2022-06-15",
+              "summary": "This research work delves into the advancements in AI and robotics, paving the way for future technologies."
+            },
+            {
+              "title": "Cancer Immunotherapy Breakthroughs",
+              "authors": ["Michael Smith", "Sophia Williams"],
+              "publication_date": "2022-12-05",
+              "summary": "Exploring the latest breakthroughs in cancer immunotherapy and their potential impact on cancer treatment."
+            }
+          ],
+          "research_history": "ABC University has a long-standing tradition of excellence in research and innovation.",
+          "admission_process": [
+            {
+              "program": "Engineering",
+              "requirements": "Minimum GPA of 3.0 and a satisfactory score in the university's entrance exam.",
+              "application_deadline": "2023-04-30"
+            },
+            {
+              "program": "Biology",
+              "requirements": "Letter of recommendation and a personal statement describing scientific interests.",
+              "application_deadline": "2023-05-15"
+            }
+          ]
+      }
+  ]
+  
